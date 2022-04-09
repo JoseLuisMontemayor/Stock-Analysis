@@ -17,4 +17,13 @@ As part of the code, we managed to assign the the starting and ending price for 
 ![](https://github.com/JoseLuisMontemayor/Stock-Analysis/blob/main/Starting_%26_Ending_Prices.PNG)
 
 
+### Results for 2018
+
+As the code was finished, we took the time to analyze the results for year 2018. The results were the next:
+
+
+
+
+
+
 
