@@ -8,7 +8,9 @@ With this project were able to help Steve analyze the relationship of a stock po
 ## Results of the Analysis
 As the data was given, we were able to analyze the results of the stocks for 2017 and 2018. With a code introduced in Visual Basic this automatic Analysis was posible. Steve is looking for relevant options to invest in and this analysis certainly automates the process for him. 
 
-We had to first review on the template how many and which tickers are there in the data. After viewing there were 12, we put assigned them in the array as shown in the code: 
+We had to first review on the template how many and which tickers are there in the data. After viewing there were 12, we put assigned them in the array as shown in the code below. We can also see how the header row was assigned and how tht tickers were taken as a String. 
 
 ![](https://github.com/JoseLuisMontemayor/Stock-Analysis/blob/main/Array_Tickers.PNG)
+
+As part of the code, we managed to assign the the starting and ending price for each ticker, we used the *IF* function to help assign the cells value and logic to assign each value for each stock. 
 
