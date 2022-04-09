@@ -25,10 +25,7 @@ The results for the year 2017 were very positive for almost all of the stocks, t
 
 In terms of  time to run the code, we could see that the effect of the restored code had a positive result, decreasing the time of more than one second, with an outcome of 0.6328 seconds. Pretty great. 
 
-
-
-
-
+![](https://github.com/JoseLuisMontemayor/Stock-Analysis/blob/main/VBA_Challenge_2017.png)
 
 
 ### Results for 2018
