@@ -20,11 +20,9 @@ As part of the code, we managed to assign the the starting and ending price for 
 ### Results for 2017
 
 The results for the year 2017 were very positive for almost all of the stocks, there was only one "TERP" which had a negative return. All of the others were in green numbers. It would probably be very valuable to analyze closely the tickers "DQ", "ENPH", "FSLR" and "SEDG" which all of them had a return of more than 100%. It would be worth it to see in which industries they operate. 
-
 ![](https://github.com/JoseLuisMontemayor/Stock-Analysis/blob/main/2017_VBA_Results.png)
 
 In terms of  time to run the code, we could see that the effect of the restored code had a positive result, decreasing the time of more than one second, with an outcome of 0.6328 seconds. Pretty great. 
-
 ![](https://github.com/JoseLuisMontemayor/Stock-Analysis/blob/main/VBA_Challenge_2017.png)
 
 
