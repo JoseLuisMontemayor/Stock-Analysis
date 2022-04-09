@@ -14,3 +14,7 @@ We had to first review on the template how many and which tickers are there in t
 
 As part of the code, we managed to assign the the starting and ending price for each ticker, we used the *IF* function to help assign the cells value and logic to assign each value for each stock. 
 
+![](https://github.com/JoseLuisMontemayor/Stock-Analysis/blob/main/Starting_%26_Ending_Prices.PNG)
+
+
+
