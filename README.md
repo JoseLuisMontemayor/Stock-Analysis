@@ -17,6 +17,20 @@ As part of the code, we managed to assign the the starting and ending price for 
 ![](https://github.com/JoseLuisMontemayor/Stock-Analysis/blob/main/Starting_%26_Ending_Prices.PNG)
 
 
+### Results for 2017
+
+The results for the year 2017 were very positive for almost all of the stocks, there was only one "TERP" which had a negative return. All of the others were in green numbers. It would probably be very valuable to analyze closely the tickers "DQ", "ENPH", "FSLR" and "SEDG" which all of them had a return of more than 100%. It would be worth it to see in which industries they operate. 
+
+
+
+In terms of  time to run the code, we could see that the effect of the restored code had a positive result, decreasing the time of more than one second, with an outcome of 0.6328 seconds. Pretty great. 
+
+
+
+
+
+
+
 ### Results for 2018
 
 As the code was finished, we took the time to analyze the results for year 2018. The results were the next:
@@ -24,9 +38,12 @@ As the code was finished, we took the time to analyze the results for year 2018.
 
 We can see that the results for the year 2018, in terms of volume the "AY" ticker has the lowest volume, but the others seem in a pretty well scale in terms of liquidity. For returns it was not a good year for most of them like in 2017. The only 2 stocks that were positive were "ENPH" and "RUN", there would be another extra analysis to understand if those 2 are in a specific sector that which outdrove the market, since the other tickers had a heavy fall compared to the year before. It would be a good option for Steve to consider the 2 positive for an opportunity of investment. 
 
-Also, as we restored the code, we can see that the time to run the code fell for more that a second. Thanks to the simplification of some code lines, we were able to have a result of the code in 0.6992 seconds. 
+Also, as we restored the code, we can see that the time to run the code fell for more that a second. Thanks to the simplification of some code lines, we were able to have a result of the code in 0.6992 seconds. Not bad.
 
 ![](https://github.com/JoseLuisMontemayor/Stock-Analysis/blob/main/VBA_Challenge_2018.png)
+
+
+
 
 
 
