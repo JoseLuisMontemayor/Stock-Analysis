@@ -20,7 +20,7 @@ As part of the code, we managed to assign the the starting and ending price for 
 ### Results for 2018
 
 As the code was finished, we took the time to analyze the results for year 2018. The results were the next:
-![](https://github.com/JoseLuisMontemayor/Stock-Analysis/blob/main/VBA_Challenge_2018.png)
+![](https://github.com/JoseLuisMontemayor/Stock-Analysis/blob/main/2018_VBA_Results.png)
 
 
 
