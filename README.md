@@ -44,9 +44,5 @@ Also, as we restored the code, we can see that the time to run the code fell for
 
 Refactoring the code could have been the most difficult and time consuming part of this project, but at the end, you can see that the code is cleaner and the result is the same but more efficient. There can be several advantages and disadvantages for refactoring. As an advantage the code can be read and understood more easily, since there can be code smells that have long processes that at the end it can be confusing for another user, they can make the running of the code faster, it can avoid bugs more easily and can improve the maintainability of the software. On the other hand, this can also be time consuming for the programmer, vague refactoring can make new bugs and the code to have more errors. It´s is important when refactoring to consider this points and be really precautious when altering the code. 
 
-
-
-
-
-
+In terms of advantages and disadvantages, to refactor code in VBA, the arguments are very similar to the ones explained previously. The application provides the tools to make the code more fast and efficient, since it can be managed with arrays, loops, nested loops, patterns, visual and numeric formatting and measurement of code performance in terms of time. All these tools can help you simplify for the next user to manipulate the data. On the contrary it can be very time consuming, may encounter many bugs and there would always be another way (maybe more simpler) to write and execute the code. It is important to have knowledge of the tool to use it at its maximum. 
 
