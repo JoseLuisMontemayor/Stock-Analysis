@@ -40,7 +40,9 @@ Also, as we restored the code, we can see that the time to run the code fell for
 ![](https://github.com/JoseLuisMontemayor/Stock-Analysis/blob/main/VBA_Challenge_2018.png)
 
 
+# Summary
 
+Refactoring the code could have been the most difficult and time consuming part of this project, but at the end, you can see that the code is cleaner and the result is the same but more efficient. There can be several advantages and disadvantages for refactoring. As an advantage the code can be read and understood more easily, since there can be code smells that have long processes that at the end it can be confusing for another user, they can make the running of the code faster, it can avoid bugs more easily and can improve the maintainability of the software. On the other hand, this can also be time consuming for the programmer, vague refactoring can make new bugs and the code to have more errors. It´s is important when refactoring to consider this points and be really precautious when altering the code. 
 
 
 
